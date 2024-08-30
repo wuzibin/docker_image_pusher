@@ -8,3 +8,4 @@ hagb/docker-atrust
 jeessy/ddns-go
 mzz2017/v2raya
 nyanmisaka/jellyfin
+teddysun/xray
