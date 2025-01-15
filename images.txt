@@ -9,3 +9,4 @@ jeessy/ddns-go
 mzz2017/v2raya
 nyanmisaka/jellyfin
 teddysun/xray
+mysql:8.0.30
