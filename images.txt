@@ -4,10 +4,10 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+nginx:latest
 hagb/docker-atrust
 jeessy/ddns-go
 mzz2017/v2raya
 nyanmisaka/jellyfin
 teddysun/xray
 mysql:8.0.30
-nginx:latest
