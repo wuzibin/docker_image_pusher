@@ -12,3 +12,4 @@ nyanmisaka/jellyfin
 teddysun/xray
 mysql:8.0.30
 macrosan/kylin:v10-sp3-2403
+postgres:16-alpine
